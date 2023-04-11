@@ -14,3 +14,7 @@ I covered detailed articles in GeeksforGeeks for the same projects:
 [3. DNA Translation](https://www.geeksforgeeks.org/dna-protein-python-3/)
 
 [4. Whisky Clustering](https://www.geeksforgeeks.org/project-scikit-learn-whisky-clustering/)
+
+------------------
+
+[![image](https://user-images.githubusercontent.com/50515418/231057256-368be328-81ec-46b6-b4ff-b47552d13716.png)](https://www.youtube.com/watch?v=qbVC1W8FOSY)
